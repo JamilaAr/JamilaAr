@@ -14,8 +14,8 @@ I have successfully completed Data Analysis with Python courses at CODE:YOU and 
 
 ## Certifications
 
-Data Analysis with Python - freeCodeCamp
-Data Analysis with Python - CODE:YOU
+- Data Analysis with Python - freeCodeCamp
+- Data Analysis with Python - CODE:YOU
 
 ## Projects
 
