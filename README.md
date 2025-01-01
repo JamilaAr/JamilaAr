@@ -21,4 +21,4 @@ I have successfully completed Data Analysis with Python courses at CODE:YOU and 
 
 * [Retail Sales and Customer Shopping Trends](https://github.com/JamilaAr/Retail-Sales-and-Customer-Shopping-Trends): The purpose of the project is to analyze retail sales data to identify customer shopping behaviors, sales trends, and opportunities for improving sales strategies.
 
-* [Amazon Products Sales Dataset 2023](https://github.com/JamilaAr/Amazon-Products-Sales-Dataset-2023): The purpose of the project is to to perform a comprehensive analysis of Amazon baby products data, focusing on sales performance, discount strategies, product ratings, and profitability.
+* [Amazon Products Sales Dataset 2023](https://github.com/JamilaAr/Amazon-Products-Sales-Dataset-2023): The purpose of the project is to perform a comprehensive analysis of Amazon baby products data, focusing on sales performance, discount strategies, product ratings, and profitability.
